@@ -72,4 +72,4 @@ prompt_template:
 
   <|The End of Assistant B''s Answer|>'
 model_list:
-- Llama-3-Base-8B-SFT-SimPO
+- Llama-3-Instruct-8B-SimPO

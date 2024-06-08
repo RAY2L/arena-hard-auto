@@ -6,4 +6,4 @@ stop_token_ids:
 - 128001
 - 128009
 model_list:
-- Llama-3-Base-8B-SFT-SimPO
+- Llama-3-Instruct-8B-SimPO
