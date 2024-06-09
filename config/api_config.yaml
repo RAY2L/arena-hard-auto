@@ -5,3 +5,21 @@ Llama-3-Instruct-8B-SimPO:
     api_key: token-abc123
   api_type: openai
   parallel: 8
+
+gpt-3.5-turbo-0125:
+    model_name: gpt-3.5-turbo-0125
+    endpoints: null
+    api_type: openai
+    parallel: 8
+
+gpt-4-0314:
+    model_name: gpt-4-0314
+    endpoints: null
+    api_type: openai
+    parallel: 8
+
+gpt-4-1106-preview:
+    model_name: gpt-4-1106-preview
+    endpoints: null
+    api_type: openai
+    parallel: 8
